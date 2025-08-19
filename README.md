@@ -1,7 +1,8 @@
 # 🎬 LibrasPlayer-Python
 
-Bem-vindo ao **LibrasPlayer-Python**!  
-Esta é a versão em Python para uso local do **LibrasPlayer (LibrasYT)**, permitindo rodar o player diretamente na sua máquina.
+⚠️ **Atenção:**  
+Esta versão em Python do **LibrasPlayer (LibrasYT)** atualmente **só faz a leitura e exibição das imagens**.  
+Ela funciona basicamente como um **console**, e está **disponível para melhorias** e para quem quiser implementar a leitura de vídeos futuramente.
 
 ---
 
@@ -50,4 +51,4 @@ Entre em contato: [alancscostabusiness@gmail.com](mailto:alancscostabusiness@gma
 
 ---
 
-### ⭐ Dê uma estrela no projeto se te ajudou!
+### ⭐ Dê uma estrela no projeto se te ajudou, ou contribua com melhorias!
