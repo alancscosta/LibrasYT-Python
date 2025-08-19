@@ -25,14 +25,21 @@ Esta é a versão em Python para uso local do **LibrasPlayer (LibrasYT)**, permi
 ### 5️⃣ Abra a pasta do repositório no VS Code  
 - Clique em **File > Open Folder...** e selecione a pasta baixada/descompactada.
 
-### 6️⃣ Instale as dependências  
+### 6️⃣ Descompacte a pasta de imagens  
+- Se houver um arquivo ZIP com as imagens (ex: `imagens.zip`), clique com o botão direito sobre ele e selecione **Extrair aqui** ou utilize o comando no terminal:
+  ```bash
+  unzip imagens.zip
+  ```
+- Certifique-se de que a pasta descompactada (ex: `imagens/`) esteja dentro do diretório do projeto.
+
+### 7️⃣ Instale as dependências  
 - No VS Code, pressione `Ctrl + '` para abrir o terminal integrado.
 - Digite o comando abaixo e pressione Enter:
   ```bash
   pip install -r requirements.txt
   ```
 
-### 7️⃣ Execute o player  
+### 8️⃣ Execute o player  
 - Clique com o botão direito no arquivo `libras_player.py` e selecione **Run Python File in Terminal**.
 
 ---
